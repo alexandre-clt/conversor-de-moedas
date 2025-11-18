@@ -68,7 +68,7 @@ Ou clicando em Run na IDE.
 ### Quando o programa iniciar, você verá:
 
 ### ===== CONVERSOR DE MOEDAS =====
-Digite o código da moeda de origem (ex: 1 USD):
+Digite o código da moeda de origem (ex: USD):
 
 
 Exemplo:
@@ -111,4 +111,5 @@ Permitir salvar histórico de conversões
 Suportar múltiplas conversões em sequência
 
 Tratamento avançado de erros e logs
+
 
